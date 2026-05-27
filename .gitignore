@@ -1,0 +1,34 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store          # Mac
+Thumbs.db          # Windows
+desktop.ini        # Windows
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Large data files (optional, if you don't want to push them)
+*.zip
+*.tar.gz
+
+# Environment variables (IMPORTANT - never push these)
+.env
+*.env
+
+# Logs
+*.log
